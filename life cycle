@@ -1,0 +1,80 @@
+                     # SDLC LIFE CYCLE:
+                     
+# SDLC -  software development life cycle - process of development of application 
+          with good quality and delevired at right time:
+# Timeline -  blueprint , application deatiles , programming lang , production , user interface,cost. etc.,
+# why is SDLC 
+  # layout for your entier project
+         # planning
+         # scheduling
+         # budgeting
+         # risk management
+         # timeline
+  # proper understanding about application or project planning
+  # estimated time that is required to build the application
+  # what framework , data-base, programming language is required
+  # set goal of deliverable, document, (trackes the data --------> microsoft project, conbun boar----->trello
+  # client and developer relationship
+# 50% of amount is need to start the project (paied before)
+-----------------------------------------------------------------------------------------------------------------
+
+                      SDLC PHASES: 
+                      
+# 1. analysis                    ------> analyse the entire process
+# 2. defining the project        ------>
+# 3. design the project          ------>
+# 4. project execution           ------> mile-stone
+# 5. soft-ware testing           ------>
+# 6. deployment                  ------>
+# 7. project closure             ------>
+
+# 1. analysis phase:
+     # you create a project plan with the clients detailes.
+     # discussion
+     # a project deal/ chater b/w client and company is sealed
+     # requirements are being deait with the team intemal discussions begin to happen.
+
+# 2. defining phase:
+     # set goals
+     # set the time-line
+     # set the cost
+     # analyze the risks
+     # SRS -------------> software requirement specification document.
+ 
+ # 3. designing  phase:
+     # UI/UX of the application
+     # what will be the software architecture to be used
+     # DDS --------------> document design specification document
+     # DDS - being ready by all the stacke-holders
+  
+  # 4. project execution phase:
+     # software will be developed based on SRS and DDS document
+  
+  # 5. testing phase:
+     # STLC is going to happen
+     # testing of the software is being done by the testers for bugs.
+  
+  # 6. deployment phase:
+     # deploy the application to the physical server/cloud
+     # give training to the client regarding the application
+     
+  # 7. project closure phase:
+     # full document to the client
+     # company receives the pending amount from the client
+     # a company party is being thrown for the successful implementation and completion of the project
+     
+     
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------  
+
+  
+                                      # SDLC LIFE-CYCLE:
+                                      
+# SDLC-------> software testing life-cycle
+
+1.14.45
+     
+
+ 
+                     
+         
