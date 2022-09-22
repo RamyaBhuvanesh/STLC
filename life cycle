@@ -72,7 +72,58 @@
                                       
 # SDLC-------> software testing life-cycle
 
-1.14.45
+stlc is a process of sequence done to achieve a testing process so that we can deliver software of good quality
+
+it validates and verifies the process of st
+
+# STLC phases:
+
+         # 1. analysis
+         # 2. planning
+         # 3. test case development
+         # 4. test environment setup
+         # 5. exexution
+         # 6. reporting
+         # 7. closure
+         
+ # analysis phase:
+     # case-study on the project done by the team
+     # testing team looks for the requisites
+     # ether automation testing is required or not
+     # fessibility study report
+     # TM document( requirement traceablity matrix)
+
+#  test planning phases:
+     # prepare a plan for the test
+     # cost estimation
+     # risk analysis
+     # roles and responsibility
+     
+# test case development phase:
+     # create test case datas
+     # create test case scripts
+ 
+# test evvironment set-up phase:
+     # you make a software testing purpose
+     # setup the test data
+     # do some fake / smoke test on the application
+     
+# test execution phase:
+     # tester tests the application based on test scripts and test datas
+     # if there is any bugs it will be reported to the development team
+     # the development team will receive the bug and send it again to the testing team
+     # the testing team will test the module with same scenario for any furthe bugs
+     # if there is no bugs then it will be send for public sector
+  
+ # reporting phase:
+     # report send to the project management team
+     
+ # project closure phase:
+     # complete documentation of the project is being done
+     # qualitative and quantative analysis is being done on it.
+    
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
      
 
  
